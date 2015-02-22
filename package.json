@@ -4,7 +4,6 @@
   "description": "Open Source Fountain Pen Ink Data",
   "main": "build/loader.js",
   "scripts": {
-    "process": "node ./build/process",
     "test": "node ./build/test",
     "build": "browserify ./build/build.js -d -p [minifyify --map index.map.json --output index.map.json] > index.js"
   },
