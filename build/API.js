@@ -28,19 +28,22 @@
         return companies[key];
       });
     },
-    getCompany: function(name) {
-      return this.companies[name] || false;
-    },
     getInks: function() {
       return this.inks;
     },
-    getInk: function(name) {
-      return this.inks.filter(function(ink) {
-        return ink.matches({name: name});
-      });
-    },
-    find: function(options) {
-
+    get: function(name, inkline, inkname) {
+      if(!inkline && !inkname) {
+        return this.companies[name] || false;
+      }
+      if (!name) {
+        var inks = this.inks.filter(function(ink) {
+          return ink.matches({
+            inkline: inkline,
+            name: inkname
+          });
+        });
+      }
+      return false;
     }
   };
 

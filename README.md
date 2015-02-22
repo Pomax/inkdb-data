@@ -95,11 +95,11 @@ In order to make everyone's lives easier, there's a simple API that we can all t
 
 - `api.get(<company name>)` → portfolio
 
-  Get a company's portofolio. A portfolio comes with its own API, covered below.
+  Get a company's portofolio. A portfolio comes with its own API, covered below. If there is no company by the name given, the result will be `false`.
 
 - `api.get(<company>, <ink line>, <inkname>)` → ink
 
-  Directly access individual inks, based on a company name, optional ink line name, and ink name. Inks have their own API, covered below.
+  Directly access individual inks, based on a company name, ink line name (set to `false` if not needed), and ink name. Inks have their own API, covered below. This function may return `false` or and empty array if noting can be found.
 
 #### Portfolio
 
@@ -110,6 +110,10 @@ In order to make everyone's lives easier, there's a simple API that we can all t
 - `portfolio.getInkLines()` → array of inklines
 
   Get the inklines sold by this company. Inklines have their own API, covered below.
+
+- `portfolio.getInkLine(<ink line>)` → inkline
+
+  Get a single inklines sold by this company. If the company does not manufacture a line by the name given, the result will be `false`.
 
 - `portfolio.getInks()` → array of inks
 
@@ -144,13 +148,33 @@ In order to make everyone's lives easier, there's a simple API that we can all t
 
   A reflective function to get the name of this ink.
 
+- `ink.getColors()` → array of {r:integer,g:integer,b:integer} objects
+
+  Yields the list of colors associated with this ink, with the dominant ink listed first. Not all inks have uniform colors, and especially highly shading inks will have at least two, sometimes more, colors as part of their profile. 
+
+- `ink.getColorComposition()` → array of {r:integer,g:integer,b:integer} objects
+
+  Yields the list of colors contained by this ink, as determined by chromatographic analysis.
+
+- `ink.getReviews()` → array of URLs
+
+  Get a list of reviews for this ink on the internet 
+
+- `ink.getNotes()` → array of notes (plain text strings)
+
+  Get a list of notes relevant to this ink.
+  
+- `ink.getRetailers()` → array of URLs
+
+  Get a list of retail URLs where this ink can be purchased.
+  
 - `ink.getProperties()` → properties
 
-  Get an ink's qualitative properties like dry time, cost, etc. Properties have their own API, covered below.
-  
+  Get an ink's qualitative properties like dry time, cost, etc. The list of properties is as follows:
+
 ##### Properties
 
-The properties object has a number of getters following the `.get[propname]` pattern, where the property is capitalized on the first letter. Supported properties are:
+The best way to model the vales for the following properties is still being worked out (and more properties might be required) but for the moment there will be the following properties available (although currently these will always report `false` as their value):
 
 - drytime
 - flow
