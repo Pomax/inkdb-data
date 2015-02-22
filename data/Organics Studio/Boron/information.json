@@ -1,0 +1,29 @@
+{
+  "company": "Organics Studio",
+  "inkline": "",
+  "inkname": "Boron",
+  "colorInformation": {
+    "colors": [
+      {
+        "r": 67,
+        "g": 37,
+        "b": 17
+      }
+    ],
+    "composition": false
+  },
+  "properties": {
+    "drytime": false,
+    "flow": false,
+    "shading": false,
+    "nibtype": false,
+    "cost": false,
+    "fluorescence": false,
+    "solution": false,
+    "deposit": false,
+    "rating": false
+  },
+  "reviews": [],
+  "notes": [],
+  "retailers": []
+}

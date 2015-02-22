@@ -1,0 +1,29 @@
+{
+  "company": "Platinum",
+  "inkline": "Mix Free",
+  "inkname": "Smoke Black",
+  "colorInformation": {
+    "colors": [
+      {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      }
+    ],
+    "composition": false
+  },
+  "properties": {
+    "drytime": false,
+    "flow": false,
+    "shading": false,
+    "nibtype": false,
+    "cost": false,
+    "fluorescence": false,
+    "solution": false,
+    "deposit": false,
+    "rating": false
+  },
+  "reviews": [],
+  "notes": [],
+  "retailers": []
+}

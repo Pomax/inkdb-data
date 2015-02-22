@@ -1,0 +1,29 @@
+{
+  "company": "Omas",
+  "inkline": "",
+  "inkname": "Violet",
+  "colorInformation": {
+    "colors": [
+      {
+        "r": 113,
+        "g": 101,
+        "b": 153
+      }
+    ],
+    "composition": false
+  },
+  "properties": {
+    "drytime": false,
+    "flow": false,
+    "shading": false,
+    "nibtype": false,
+    "cost": false,
+    "fluorescence": false,
+    "solution": false,
+    "deposit": false,
+    "rating": false
+  },
+  "reviews": [],
+  "notes": [],
+  "retailers": []
+}

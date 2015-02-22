@@ -1,0 +1,29 @@
+{
+  "company": "Kaweco",
+  "inkline": "",
+  "inkname": "Ruby Red",
+  "colorInformation": {
+    "colors": [
+      {
+        "r": 139,
+        "g": 41,
+        "b": 66
+      }
+    ],
+    "composition": false
+  },
+  "properties": {
+    "drytime": false,
+    "flow": false,
+    "shading": false,
+    "nibtype": false,
+    "cost": false,
+    "fluorescence": false,
+    "solution": false,
+    "deposit": false,
+    "rating": false
+  },
+  "reviews": [],
+  "notes": [],
+  "retailers": []
+}

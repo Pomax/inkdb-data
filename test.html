@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <script src="index.js"></script>
+  </head>
+  <body>
+    <script>
+      Inkdata.loadAPI(function(err, api) {
+        var inks = api.getInks();
+        var companies = api.getCompanies();
+        var p = document.createElement("p");
+        p.textContent = inks.length + " inks loaded from " + companies.length + " companies";
+        document.body.appendChild(p);
+      })
+    </script>
+  </body>
+</htlm>

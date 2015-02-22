@@ -1,0 +1,29 @@
+{
+  "company": "De Atramentis",
+  "inkline": "",
+  "inkname": "Jasmine",
+  "colorInformation": {
+    "colors": [
+      {
+        "r": 251,
+        "g": 145,
+        "b": 97
+      }
+    ],
+    "composition": false
+  },
+  "properties": {
+    "drytime": false,
+    "flow": false,
+    "shading": false,
+    "nibtype": false,
+    "cost": false,
+    "fluorescence": false,
+    "solution": false,
+    "deposit": false,
+    "rating": false
+  },
+  "reviews": [],
+  "notes": [],
+  "retailers": []
+}

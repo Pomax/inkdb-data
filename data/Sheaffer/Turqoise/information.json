@@ -1,0 +1,29 @@
+{
+  "company": "Sheaffer",
+  "inkline": "",
+  "inkname": "Turqoise",
+  "colorInformation": {
+    "colors": [
+      {
+        "r": 0,
+        "g": 115,
+        "b": 150
+      }
+    ],
+    "composition": false
+  },
+  "properties": {
+    "drytime": false,
+    "flow": false,
+    "shading": false,
+    "nibtype": false,
+    "cost": false,
+    "fluorescence": false,
+    "solution": false,
+    "deposit": false,
+    "rating": false
+  },
+  "reviews": [],
+  "notes": [],
+  "retailers": []
+}

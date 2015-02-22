@@ -1,0 +1,29 @@
+{
+  "company": "Talens Ecoline",
+  "inkline": "",
+  "inkname": "506",
+  "colorInformation": {
+    "colors": [
+      {
+        "r": 0,
+        "g": 104,
+        "b": 165
+      }
+    ],
+    "composition": false
+  },
+  "properties": {
+    "drytime": false,
+    "flow": false,
+    "shading": false,
+    "nibtype": false,
+    "cost": false,
+    "fluorescence": false,
+    "solution": false,
+    "deposit": false,
+    "rating": false
+  },
+  "reviews": [],
+  "notes": [],
+  "retailers": []
+}

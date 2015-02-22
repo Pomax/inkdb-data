@@ -1,0 +1,29 @@
+{
+  "company": "Kaweco",
+  "inkline": "",
+  "inkname": "Summer Purple",
+  "colorInformation": {
+    "colors": [
+      {
+        "r": 100,
+        "g": 74,
+        "b": 107
+      }
+    ],
+    "composition": false
+  },
+  "properties": {
+    "drytime": false,
+    "flow": false,
+    "shading": false,
+    "nibtype": false,
+    "cost": false,
+    "fluorescence": false,
+    "solution": false,
+    "deposit": false,
+    "rating": false
+  },
+  "reviews": [],
+  "notes": [],
+  "retailers": []
+}

@@ -1,0 +1,29 @@
+{
+  "company": "Pilot",
+  "inkline": "",
+  "inkname": "Black",
+  "colorInformation": {
+    "colors": [
+      {
+        "r": 44,
+        "g": 35,
+        "b": 28
+      }
+    ],
+    "composition": false
+  },
+  "properties": {
+    "drytime": false,
+    "flow": false,
+    "shading": false,
+    "nibtype": false,
+    "cost": false,
+    "fluorescence": false,
+    "solution": false,
+    "deposit": false,
+    "rating": false
+  },
+  "reviews": [],
+  "notes": [],
+  "retailers": []
+}

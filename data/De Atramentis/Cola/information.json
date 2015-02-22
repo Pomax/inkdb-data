@@ -1,0 +1,29 @@
+{
+  "company": "De Atramentis",
+  "inkline": "",
+  "inkname": "Cola",
+  "colorInformation": {
+    "colors": [
+      {
+        "r": 218,
+        "g": 74,
+        "b": 85
+      }
+    ],
+    "composition": false
+  },
+  "properties": {
+    "drytime": false,
+    "flow": false,
+    "shading": false,
+    "nibtype": false,
+    "cost": false,
+    "fluorescence": false,
+    "solution": false,
+    "deposit": false,
+    "rating": false
+  },
+  "reviews": [],
+  "notes": [],
+  "retailers": []
+}

@@ -1,0 +1,29 @@
+{
+  "company": "J. Herbin",
+  "inkline": "",
+  "inkname": "Perle Noire",
+  "colorInformation": {
+    "colors": [
+      {
+        "r": 40,
+        "g": 34,
+        "b": 34
+      }
+    ],
+    "composition": false
+  },
+  "properties": {
+    "drytime": false,
+    "flow": false,
+    "shading": false,
+    "nibtype": false,
+    "cost": false,
+    "fluorescence": false,
+    "solution": false,
+    "deposit": false,
+    "rating": false
+  },
+  "reviews": [],
+  "notes": [],
+  "retailers": []
+}

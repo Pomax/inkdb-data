@@ -1,0 +1,29 @@
+{
+  "company": "De Atramentis",
+  "inkline": "",
+  "inkname": "Fog Grey",
+  "colorInformation": {
+    "colors": [
+      {
+        "r": 71,
+        "g": 82,
+        "b": 100
+      }
+    ],
+    "composition": false
+  },
+  "properties": {
+    "drytime": false,
+    "flow": false,
+    "shading": false,
+    "nibtype": false,
+    "cost": false,
+    "fluorescence": false,
+    "solution": false,
+    "deposit": false,
+    "rating": false
+  },
+  "reviews": [],
+  "notes": [],
+  "retailers": []
+}

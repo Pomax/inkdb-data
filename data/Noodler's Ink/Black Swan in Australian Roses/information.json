@@ -1,0 +1,29 @@
+{
+  "company": "Noodler's Ink",
+  "inkline": "",
+  "inkname": "Black Swan in Australian Roses",
+  "colorInformation": {
+    "colors": [
+      {
+        "r": 92,
+        "g": 20,
+        "b": 84
+      }
+    ],
+    "composition": false
+  },
+  "properties": {
+    "drytime": false,
+    "flow": false,
+    "shading": false,
+    "nibtype": false,
+    "cost": false,
+    "fluorescence": false,
+    "solution": false,
+    "deposit": false,
+    "rating": false
+  },
+  "reviews": [],
+  "notes": [],
+  "retailers": []
+}

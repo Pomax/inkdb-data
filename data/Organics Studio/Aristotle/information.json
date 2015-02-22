@@ -1,0 +1,29 @@
+{
+  "company": "Organics Studio",
+  "inkline": "",
+  "inkname": "Aristotle",
+  "colorInformation": {
+    "colors": [
+      {
+        "r": 85,
+        "g": 115,
+        "b": 119
+      }
+    ],
+    "composition": false
+  },
+  "properties": {
+    "drytime": false,
+    "flow": false,
+    "shading": false,
+    "nibtype": false,
+    "cost": false,
+    "fluorescence": false,
+    "solution": false,
+    "deposit": false,
+    "rating": false
+  },
+  "reviews": [],
+  "notes": [],
+  "retailers": []
+}

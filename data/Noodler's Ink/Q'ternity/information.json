@@ -1,0 +1,29 @@
+{
+  "company": "Noodler's Ink",
+  "inkline": "",
+  "inkname": "Q'ternity",
+  "colorInformation": {
+    "colors": [
+      {
+        "r": 5,
+        "g": 54,
+        "b": 81
+      }
+    ],
+    "composition": false
+  },
+  "properties": {
+    "drytime": false,
+    "flow": false,
+    "shading": false,
+    "nibtype": false,
+    "cost": false,
+    "fluorescence": false,
+    "solution": false,
+    "deposit": false,
+    "rating": false
+  },
+  "reviews": [],
+  "notes": [],
+  "retailers": []
+}

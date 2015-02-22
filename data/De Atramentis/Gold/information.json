@@ -1,0 +1,29 @@
+{
+  "company": "De Atramentis",
+  "inkline": "",
+  "inkname": "Gold",
+  "colorInformation": {
+    "colors": [
+      {
+        "r": 233,
+        "g": 196,
+        "b": 68
+      }
+    ],
+    "composition": false
+  },
+  "properties": {
+    "drytime": false,
+    "flow": false,
+    "shading": false,
+    "nibtype": false,
+    "cost": false,
+    "fluorescence": false,
+    "solution": false,
+    "deposit": false,
+    "rating": false
+  },
+  "reviews": [],
+  "notes": [],
+  "retailers": []
+}

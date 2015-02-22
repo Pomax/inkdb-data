@@ -1,0 +1,29 @@
+{
+  "company": "Montegrappa",
+  "inkline": "",
+  "inkname": "Blue",
+  "colorInformation": {
+    "colors": [
+      {
+        "r": 91,
+        "g": 108,
+        "b": 176
+      }
+    ],
+    "composition": false
+  },
+  "properties": {
+    "drytime": false,
+    "flow": false,
+    "shading": false,
+    "nibtype": false,
+    "cost": false,
+    "fluorescence": false,
+    "solution": false,
+    "deposit": false,
+    "rating": false
+  },
+  "reviews": [],
+  "notes": [],
+  "retailers": []
+}

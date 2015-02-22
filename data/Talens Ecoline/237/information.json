@@ -1,0 +1,29 @@
+{
+  "company": "Talens Ecoline",
+  "inkline": "",
+  "inkname": "237",
+  "colorInformation": {
+    "colors": [
+      {
+        "r": 204,
+        "g": 105,
+        "b": 0
+      }
+    ],
+    "composition": false
+  },
+  "properties": {
+    "drytime": false,
+    "flow": false,
+    "shading": false,
+    "nibtype": false,
+    "cost": false,
+    "fluorescence": false,
+    "solution": false,
+    "deposit": false,
+    "rating": false
+  },
+  "reviews": [],
+  "notes": [],
+  "retailers": []
+}

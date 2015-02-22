@@ -1,0 +1,29 @@
+{
+  "company": "Caran d'Ache",
+  "inkline": "",
+  "inkname": "Cosmic Black",
+  "colorInformation": {
+    "colors": [
+      {
+        "r": 54,
+        "g": 48,
+        "b": 44
+      }
+    ],
+    "composition": false
+  },
+  "properties": {
+    "drytime": false,
+    "flow": false,
+    "shading": false,
+    "nibtype": false,
+    "cost": false,
+    "fluorescence": false,
+    "solution": false,
+    "deposit": false,
+    "rating": false
+  },
+  "reviews": [],
+  "notes": [],
+  "retailers": []
+}

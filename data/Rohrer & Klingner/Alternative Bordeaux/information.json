@@ -1,0 +1,29 @@
+{
+  "company": "Rohrer & Klingner",
+  "inkline": "",
+  "inkname": "Alternative Bordeaux",
+  "colorInformation": {
+    "colors": [
+      {
+        "r": 76,
+        "g": 1,
+        "b": 32
+      }
+    ],
+    "composition": false
+  },
+  "properties": {
+    "drytime": false,
+    "flow": false,
+    "shading": false,
+    "nibtype": false,
+    "cost": false,
+    "fluorescence": false,
+    "solution": false,
+    "deposit": false,
+    "rating": false
+  },
+  "reviews": [],
+  "notes": [],
+  "retailers": []
+}

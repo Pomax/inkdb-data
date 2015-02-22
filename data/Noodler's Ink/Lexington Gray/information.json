@@ -1,0 +1,29 @@
+{
+  "company": "Noodler's Ink",
+  "inkline": "",
+  "inkname": "Lexington Gray",
+  "colorInformation": {
+    "colors": [
+      {
+        "r": 64,
+        "g": 59,
+        "b": 52
+      }
+    ],
+    "composition": false
+  },
+  "properties": {
+    "drytime": false,
+    "flow": false,
+    "shading": false,
+    "nibtype": false,
+    "cost": false,
+    "fluorescence": false,
+    "solution": false,
+    "deposit": false,
+    "rating": false
+  },
+  "reviews": [],
+  "notes": [],
+  "retailers": []
+}

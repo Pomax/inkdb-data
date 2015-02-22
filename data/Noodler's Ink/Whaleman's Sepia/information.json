@@ -1,0 +1,29 @@
+{
+  "company": "Noodler's Ink",
+  "inkline": "",
+  "inkname": "Whaleman's Sepia",
+  "colorInformation": {
+    "colors": [
+      {
+        "r": 52,
+        "g": 36,
+        "b": 37
+      }
+    ],
+    "composition": false
+  },
+  "properties": {
+    "drytime": false,
+    "flow": false,
+    "shading": false,
+    "nibtype": false,
+    "cost": false,
+    "fluorescence": false,
+    "solution": false,
+    "deposit": false,
+    "rating": false
+  },
+  "reviews": [],
+  "notes": [],
+  "retailers": []
+}

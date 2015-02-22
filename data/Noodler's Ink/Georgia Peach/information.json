@@ -1,0 +1,29 @@
+{
+  "company": "Noodler's Ink",
+  "inkline": "",
+  "inkname": "Georgia Peach",
+  "colorInformation": {
+    "colors": [
+      {
+        "r": 205,
+        "g": 31,
+        "b": 80
+      }
+    ],
+    "composition": false
+  },
+  "properties": {
+    "drytime": false,
+    "flow": false,
+    "shading": false,
+    "nibtype": false,
+    "cost": false,
+    "fluorescence": false,
+    "solution": false,
+    "deposit": false,
+    "rating": false
+  },
+  "reviews": [],
+  "notes": [],
+  "retailers": []
+}

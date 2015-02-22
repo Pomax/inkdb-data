@@ -1,0 +1,29 @@
+{
+  "company": "De Atramentis",
+  "inkline": "",
+  "inkname": "Apple Blossom",
+  "colorInformation": {
+    "colors": [
+      {
+        "r": 216,
+        "g": 98,
+        "b": 160
+      }
+    ],
+    "composition": false
+  },
+  "properties": {
+    "drytime": false,
+    "flow": false,
+    "shading": false,
+    "nibtype": false,
+    "cost": false,
+    "fluorescence": false,
+    "solution": false,
+    "deposit": false,
+    "rating": false
+  },
+  "reviews": [],
+  "notes": [],
+  "retailers": []
+}

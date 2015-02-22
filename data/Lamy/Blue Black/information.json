@@ -1,0 +1,29 @@
+{
+  "company": "Lamy",
+  "inkline": "",
+  "inkname": "Blue Black",
+  "colorInformation": {
+    "colors": [
+      {
+        "r": 69,
+        "g": 96,
+        "b": 139
+      }
+    ],
+    "composition": false
+  },
+  "properties": {
+    "drytime": false,
+    "flow": false,
+    "shading": false,
+    "nibtype": false,
+    "cost": false,
+    "fluorescence": false,
+    "solution": false,
+    "deposit": false,
+    "rating": false
+  },
+  "reviews": [],
+  "notes": [],
+  "retailers": []
+}

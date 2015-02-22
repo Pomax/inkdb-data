@@ -1,0 +1,29 @@
+{
+  "company": "Platinum",
+  "inkline": "",
+  "inkname": "Blue-Black",
+  "colorInformation": {
+    "colors": [
+      {
+        "r": 0,
+        "g": 53,
+        "b": 137
+      }
+    ],
+    "composition": false
+  },
+  "properties": {
+    "drytime": false,
+    "flow": false,
+    "shading": false,
+    "nibtype": false,
+    "cost": false,
+    "fluorescence": false,
+    "solution": false,
+    "deposit": false,
+    "rating": false
+  },
+  "reviews": [],
+  "notes": [],
+  "retailers": []
+}

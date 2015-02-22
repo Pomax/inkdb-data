@@ -1,0 +1,29 @@
+{
+  "company": "Waterman",
+  "inkline": "",
+  "inkname": "Mysterious Blue",
+  "colorInformation": {
+    "colors": [
+      {
+        "r": 70,
+        "g": 114,
+        "b": 137
+      }
+    ],
+    "composition": false
+  },
+  "properties": {
+    "drytime": false,
+    "flow": false,
+    "shading": false,
+    "nibtype": false,
+    "cost": false,
+    "fluorescence": false,
+    "solution": false,
+    "deposit": false,
+    "rating": false
+  },
+  "reviews": [],
+  "notes": [],
+  "retailers": []
+}

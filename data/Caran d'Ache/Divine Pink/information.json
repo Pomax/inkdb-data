@@ -1,0 +1,29 @@
+{
+  "company": "Caran d'Ache",
+  "inkline": "",
+  "inkname": "Divine Pink",
+  "colorInformation": {
+    "colors": [
+      {
+        "r": 123,
+        "g": 35,
+        "b": 63
+      }
+    ],
+    "composition": false
+  },
+  "properties": {
+    "drytime": false,
+    "flow": false,
+    "shading": false,
+    "nibtype": false,
+    "cost": false,
+    "fluorescence": false,
+    "solution": false,
+    "deposit": false,
+    "rating": false
+  },
+  "reviews": [],
+  "notes": [],
+  "retailers": []
+}

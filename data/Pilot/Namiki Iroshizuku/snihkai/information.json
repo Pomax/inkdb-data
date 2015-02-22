@@ -1,0 +1,29 @@
+{
+  "company": "Pilot/Namiki Iroshizuku",
+  "inkline": "",
+  "inkname": "snihkai",
+  "colorInformation": {
+    "colors": [
+      {
+        "r": 97,
+        "g": 114,
+        "b": 138
+      }
+    ],
+    "composition": false
+  },
+  "properties": {
+    "drytime": false,
+    "flow": false,
+    "shading": false,
+    "nibtype": false,
+    "cost": false,
+    "fluorescence": false,
+    "solution": false,
+    "deposit": false,
+    "rating": false
+  },
+  "reviews": [],
+  "notes": [],
+  "retailers": []
+}

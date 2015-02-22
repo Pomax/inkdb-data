@@ -1,0 +1,29 @@
+{
+  "company": "Diamine",
+  "inkline": "",
+  "inkname": "Salamander",
+  "colorInformation": {
+    "colors": [
+      {
+        "r": 91,
+        "g": 85,
+        "b": 47
+      }
+    ],
+    "composition": false
+  },
+  "properties": {
+    "drytime": false,
+    "flow": false,
+    "shading": false,
+    "nibtype": false,
+    "cost": false,
+    "fluorescence": false,
+    "solution": false,
+    "deposit": false,
+    "rating": false
+  },
+  "reviews": [],
+  "notes": [],
+  "retailers": []
+}

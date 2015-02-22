@@ -1,0 +1,29 @@
+{
+  "company": "Pilot/Namiki Iroshizuku",
+  "inkline": "",
+  "inkname": "kosumosu",
+  "colorInformation": {
+    "colors": [
+      {
+        "r": 150,
+        "g": 94,
+        "b": 121
+      }
+    ],
+    "composition": false
+  },
+  "properties": {
+    "drytime": false,
+    "flow": false,
+    "shading": false,
+    "nibtype": false,
+    "cost": false,
+    "fluorescence": false,
+    "solution": false,
+    "deposit": false,
+    "rating": false
+  },
+  "reviews": [],
+  "notes": [],
+  "retailers": []
+}

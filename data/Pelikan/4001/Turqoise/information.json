@@ -1,0 +1,29 @@
+{
+  "company": "Pelikan",
+  "inkline": "4001",
+  "inkname": "Turqoise",
+  "colorInformation": {
+    "colors": [
+      {
+        "r": 0,
+        "g": 122,
+        "b": 185
+      }
+    ],
+    "composition": false
+  },
+  "properties": {
+    "drytime": false,
+    "flow": false,
+    "shading": false,
+    "nibtype": false,
+    "cost": false,
+    "fluorescence": false,
+    "solution": false,
+    "deposit": false,
+    "rating": false
+  },
+  "reviews": [],
+  "notes": [],
+  "retailers": []
+}

@@ -1,0 +1,29 @@
+{
+  "company": "Private Reserve",
+  "inkline": "",
+  "inkname": "Black Magic Blue",
+  "colorInformation": {
+    "colors": [
+      {
+        "r": 17,
+        "g": 28,
+        "b": 96
+      }
+    ],
+    "composition": false
+  },
+  "properties": {
+    "drytime": false,
+    "flow": false,
+    "shading": false,
+    "nibtype": false,
+    "cost": false,
+    "fluorescence": false,
+    "solution": false,
+    "deposit": false,
+    "rating": false
+  },
+  "reviews": [],
+  "notes": [],
+  "retailers": []
+}

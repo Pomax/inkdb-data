@@ -1,0 +1,29 @@
+{
+  "company": "J. Herbin",
+  "inkline": "",
+  "inkname": "Tendresse",
+  "colorInformation": {
+    "colors": [
+      {
+        "r": 207,
+        "g": 106,
+        "b": 196
+      }
+    ],
+    "composition": false
+  },
+  "properties": {
+    "drytime": false,
+    "flow": false,
+    "shading": false,
+    "nibtype": false,
+    "cost": false,
+    "fluorescence": false,
+    "solution": false,
+    "deposit": false,
+    "rating": false
+  },
+  "reviews": [],
+  "notes": [],
+  "retailers": []
+}

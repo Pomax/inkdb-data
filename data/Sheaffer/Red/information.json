@@ -1,0 +1,29 @@
+{
+  "company": "Sheaffer",
+  "inkline": "",
+  "inkname": "Red",
+  "colorInformation": {
+    "colors": [
+      {
+        "r": 128,
+        "g": 26,
+        "b": 26
+      }
+    ],
+    "composition": false
+  },
+  "properties": {
+    "drytime": false,
+    "flow": false,
+    "shading": false,
+    "nibtype": false,
+    "cost": false,
+    "fluorescence": false,
+    "solution": false,
+    "deposit": false,
+    "rating": false
+  },
+  "reviews": [],
+  "notes": [],
+  "retailers": []
+}

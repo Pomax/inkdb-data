@@ -1,0 +1,29 @@
+{
+  "company": "Montegrappa",
+  "inkline": "",
+  "inkname": "Bordeaux",
+  "colorInformation": {
+    "colors": [
+      {
+        "r": 144,
+        "g": 80,
+        "b": 93
+      }
+    ],
+    "composition": false
+  },
+  "properties": {
+    "drytime": false,
+    "flow": false,
+    "shading": false,
+    "nibtype": false,
+    "cost": false,
+    "fluorescence": false,
+    "solution": false,
+    "deposit": false,
+    "rating": false
+  },
+  "reviews": [],
+  "notes": [],
+  "retailers": []
+}

@@ -1,0 +1,29 @@
+{
+  "company": "Waterman",
+  "inkline": "",
+  "inkname": "Intense Black",
+  "colorInformation": {
+    "colors": [
+      {
+        "r": 69,
+        "g": 66,
+        "b": 61
+      }
+    ],
+    "composition": false
+  },
+  "properties": {
+    "drytime": false,
+    "flow": false,
+    "shading": false,
+    "nibtype": false,
+    "cost": false,
+    "fluorescence": false,
+    "solution": false,
+    "deposit": false,
+    "rating": false
+  },
+  "reviews": [],
+  "notes": [],
+  "retailers": []
+}

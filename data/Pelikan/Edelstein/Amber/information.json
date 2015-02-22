@@ -1,0 +1,29 @@
+{
+  "company": "Pelikan",
+  "inkline": "Edelstein",
+  "inkname": "Amber",
+  "colorInformation": {
+    "colors": [
+      {
+        "r": 214,
+        "g": 148,
+        "b": 0
+      }
+    ],
+    "composition": false
+  },
+  "properties": {
+    "drytime": false,
+    "flow": false,
+    "shading": false,
+    "nibtype": false,
+    "cost": false,
+    "fluorescence": false,
+    "solution": false,
+    "deposit": false,
+    "rating": false
+  },
+  "reviews": [],
+  "notes": [],
+  "retailers": []
+}

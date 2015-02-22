@@ -1,0 +1,29 @@
+{
+  "company": "Delta",
+  "inkline": "",
+  "inkname": "Blue",
+  "colorInformation": {
+    "colors": [
+      {
+        "r": 0,
+        "g": 90,
+        "b": 191
+      }
+    ],
+    "composition": false
+  },
+  "properties": {
+    "drytime": false,
+    "flow": false,
+    "shading": false,
+    "nibtype": false,
+    "cost": false,
+    "fluorescence": false,
+    "solution": false,
+    "deposit": false,
+    "rating": false
+  },
+  "reviews": [],
+  "notes": [],
+  "retailers": []
+}

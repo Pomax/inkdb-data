@@ -1,0 +1,29 @@
+{
+  "company": "Pelikan",
+  "inkline": "M205 Duo",
+  "inkname": "Green",
+  "colorInformation": {
+    "colors": [
+      {
+        "r": 128,
+        "g": 237,
+        "b": 0
+      }
+    ],
+    "composition": false
+  },
+  "properties": {
+    "drytime": false,
+    "flow": false,
+    "shading": false,
+    "nibtype": false,
+    "cost": false,
+    "fluorescence": false,
+    "solution": false,
+    "deposit": false,
+    "rating": false
+  },
+  "reviews": [],
+  "notes": [],
+  "retailers": []
+}

@@ -1,0 +1,29 @@
+{
+  "company": "Private Reserve",
+  "inkline": "",
+  "inkname": "Avocado",
+  "colorInformation": {
+    "colors": [
+      {
+        "r": 29,
+        "g": 64,
+        "b": 18
+      }
+    ],
+    "composition": false
+  },
+  "properties": {
+    "drytime": false,
+    "flow": false,
+    "shading": false,
+    "nibtype": false,
+    "cost": false,
+    "fluorescence": false,
+    "solution": false,
+    "deposit": false,
+    "rating": false
+  },
+  "reviews": [],
+  "notes": [],
+  "retailers": []
+}

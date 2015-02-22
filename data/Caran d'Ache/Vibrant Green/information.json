@@ -1,0 +1,29 @@
+{
+  "company": "Caran d'Ache",
+  "inkline": "",
+  "inkname": "Vibrant Green",
+  "colorInformation": {
+    "colors": [
+      {
+        "r": 0,
+        "g": 100,
+        "b": 62
+      }
+    ],
+    "composition": false
+  },
+  "properties": {
+    "drytime": false,
+    "flow": false,
+    "shading": false,
+    "nibtype": false,
+    "cost": false,
+    "fluorescence": false,
+    "solution": false,
+    "deposit": false,
+    "rating": false
+  },
+  "reviews": [],
+  "notes": [],
+  "retailers": []
+}

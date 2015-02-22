@@ -1,0 +1,29 @@
+{
+  "company": "Pelikan",
+  "inkline": "4001",
+  "inkname": "Royal Blue",
+  "colorInformation": {
+    "colors": [
+      {
+        "r": 34,
+        "g": 79,
+        "b": 158
+      }
+    ],
+    "composition": false
+  },
+  "properties": {
+    "drytime": false,
+    "flow": false,
+    "shading": false,
+    "nibtype": false,
+    "cost": false,
+    "fluorescence": false,
+    "solution": false,
+    "deposit": false,
+    "rating": false
+  },
+  "reviews": [],
+  "notes": [],
+  "retailers": []
+}

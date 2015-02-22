@@ -1,0 +1,29 @@
+{
+  "company": "Diamine",
+  "inkline": "",
+  "inkname": "Pink",
+  "colorInformation": {
+    "colors": [
+      {
+        "r": 203,
+        "g": 64,
+        "b": 79
+      }
+    ],
+    "composition": false
+  },
+  "properties": {
+    "drytime": false,
+    "flow": false,
+    "shading": false,
+    "nibtype": false,
+    "cost": false,
+    "fluorescence": false,
+    "solution": false,
+    "deposit": false,
+    "rating": false
+  },
+  "reviews": [],
+  "notes": [],
+  "retailers": []
+}

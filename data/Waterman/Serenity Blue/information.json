@@ -1,0 +1,29 @@
+{
+  "company": "Waterman",
+  "inkline": "",
+  "inkname": "Serenity Blue",
+  "colorInformation": {
+    "colors": [
+      {
+        "r": 87,
+        "g": 113,
+        "b": 162
+      }
+    ],
+    "composition": false
+  },
+  "properties": {
+    "drytime": false,
+    "flow": false,
+    "shading": false,
+    "nibtype": false,
+    "cost": false,
+    "fluorescence": false,
+    "solution": false,
+    "deposit": false,
+    "rating": false
+  },
+  "reviews": [],
+  "notes": [],
+  "retailers": []
+}

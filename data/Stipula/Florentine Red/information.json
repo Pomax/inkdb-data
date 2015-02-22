@@ -1,0 +1,29 @@
+{
+  "company": "Stipula",
+  "inkline": "",
+  "inkname": "Florentine Red",
+  "colorInformation": {
+    "colors": [
+      {
+        "r": 215,
+        "g": 0,
+        "b": 68
+      }
+    ],
+    "composition": false
+  },
+  "properties": {
+    "drytime": false,
+    "flow": false,
+    "shading": false,
+    "nibtype": false,
+    "cost": false,
+    "fluorescence": false,
+    "solution": false,
+    "deposit": false,
+    "rating": false
+  },
+  "reviews": [],
+  "notes": [],
+  "retailers": []
+}

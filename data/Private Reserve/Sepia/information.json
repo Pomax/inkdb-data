@@ -1,0 +1,29 @@
+{
+  "company": "Private Reserve",
+  "inkline": "",
+  "inkname": "Sepia",
+  "colorInformation": {
+    "colors": [
+      {
+        "r": 122,
+        "g": 89,
+        "b": 0
+      }
+    ],
+    "composition": false
+  },
+  "properties": {
+    "drytime": false,
+    "flow": false,
+    "shading": false,
+    "nibtype": false,
+    "cost": false,
+    "fluorescence": false,
+    "solution": false,
+    "deposit": false,
+    "rating": false
+  },
+  "reviews": [],
+  "notes": [],
+  "retailers": []
+}

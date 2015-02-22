@@ -1,0 +1,29 @@
+{
+  "company": "Pilot/Namiki Iroshizuku",
+  "inkline": "",
+  "inkname": "yuyake",
+  "colorInformation": {
+    "colors": [
+      {
+        "r": 152,
+        "g": 100,
+        "b": 62
+      }
+    ],
+    "composition": false
+  },
+  "properties": {
+    "drytime": false,
+    "flow": false,
+    "shading": false,
+    "nibtype": false,
+    "cost": false,
+    "fluorescence": false,
+    "solution": false,
+    "deposit": false,
+    "rating": false
+  },
+  "reviews": [],
+  "notes": [],
+  "retailers": []
+}

@@ -1,0 +1,29 @@
+{
+  "company": "Diamine",
+  "inkline": "",
+  "inkname": "Imperial Blue",
+  "colorInformation": {
+    "colors": [
+      {
+        "r": 86,
+        "g": 89,
+        "b": 138
+      }
+    ],
+    "composition": false
+  },
+  "properties": {
+    "drytime": false,
+    "flow": false,
+    "shading": false,
+    "nibtype": false,
+    "cost": false,
+    "fluorescence": false,
+    "solution": false,
+    "deposit": false,
+    "rating": false
+  },
+  "reviews": [],
+  "notes": [],
+  "retailers": []
+}

@@ -1,0 +1,29 @@
+{
+  "company": "Kaweco",
+  "inkline": "",
+  "inkname": "Pearl Black",
+  "colorInformation": {
+    "colors": [
+      {
+        "r": 49,
+        "g": 43,
+        "b": 43
+      }
+    ],
+    "composition": false
+  },
+  "properties": {
+    "drytime": false,
+    "flow": false,
+    "shading": false,
+    "nibtype": false,
+    "cost": false,
+    "fluorescence": false,
+    "solution": false,
+    "deposit": false,
+    "rating": false
+  },
+  "reviews": [],
+  "notes": [],
+  "retailers": []
+}

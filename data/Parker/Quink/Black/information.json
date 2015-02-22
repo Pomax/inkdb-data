@@ -1,0 +1,29 @@
+{
+  "company": "Parker",
+  "inkline": "Quink",
+  "inkname": "Black",
+  "colorInformation": {
+    "colors": [
+      {
+        "r": 48,
+        "g": 41,
+        "b": 37
+      }
+    ],
+    "composition": false
+  },
+  "properties": {
+    "drytime": false,
+    "flow": false,
+    "shading": false,
+    "nibtype": false,
+    "cost": false,
+    "fluorescence": false,
+    "solution": false,
+    "deposit": false,
+    "rating": false
+  },
+  "reviews": [],
+  "notes": [],
+  "retailers": []
+}

@@ -1,0 +1,29 @@
+{
+  "company": "Montegrappa",
+  "inkline": "",
+  "inkname": "Turqoise",
+  "colorInformation": {
+    "colors": [
+      {
+        "r": 64,
+        "g": 172,
+        "b": 189
+      }
+    ],
+    "composition": false
+  },
+  "properties": {
+    "drytime": false,
+    "flow": false,
+    "shading": false,
+    "nibtype": false,
+    "cost": false,
+    "fluorescence": false,
+    "solution": false,
+    "deposit": false,
+    "rating": false
+  },
+  "reviews": [],
+  "notes": [],
+  "retailers": []
+}
