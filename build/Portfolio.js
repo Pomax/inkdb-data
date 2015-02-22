@@ -1,12 +1,12 @@
 var Inkline = require("./Inkline");
 
-var Company = function(name) {
+var Portfolio = function(name) {
   this.name = name;
   this.inklines = {};
   this.inks = [];
 };
 
-Company.prototype = {
+Portfolio.prototype = {
   process: function(inkobj) {
     var inkline = inkobj.inkline || "default";
     if(!this.inklines[inkline]) {
@@ -34,4 +34,4 @@ Company.prototype = {
   }
 };
 
-module.exports = Company;
+module.exports = Portfolio;

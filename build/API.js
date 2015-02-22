@@ -1,7 +1,7 @@
 (function() {
   "use strict";
 
-  var Company = require("./Company");
+  var Portfolio = require("./Portfolio");
 
   var API = function() {
     this.companies = {};
@@ -13,7 +13,7 @@
 
       var processInk = function(inkobj) {
         if(!this.companies[inkobj.company]) {
-          this.companies[inkobj.company] = new Company(inkobj.company);
+          this.companies[inkobj.company] = new Portfolio(inkobj.company);
         }
         var company = this.companies[inkobj.company];
         var ink = company.process(inkobj);
