@@ -26,9 +26,9 @@ You are a hero to fountain pen users world wide, and I would love to add the lin
 
 ## Own an ink and want to rate it?
 
-If you own a particular ink, and you like writing with it, whether you realise it or not you are the perfect person to say something about that ink! While writing a detailed review of an ink takes time and practice, and is greatly appreciated by the rest of the fountain pen using world, you don't *need* to go quite that in-depth to make a contribution: why not simply [rate your ink]() in terms of what you feel you're qualified to rate? Does it flow well? How much did it cost you? Is it a little sedimenty if you leave the bottle standing for a while? Maybe it's a fluerescent or even highlighter ink! Simply tick some boxes, and in less than a minute, feel good about yourself for having helped improve the body of knowledge that the world can tap into! 
+If you own a particular ink, and you like writing with it, whether you realise it or not you are the perfect person to say something about that ink! While writing a detailed review of an ink takes time and practice, and is greatly appreciated by the rest of the fountain pen using world, you don't *need* to go quite that in-depth to make a contribution: why not simply [rate your ink](https://encrypted.google.com/search?hl=en&q=in+progress) in terms of what you feel you're qualified to rate? Does it flow well? How much did it cost you? Is it a little sedimenty if you leave the bottle standing for a while? Maybe it's a fluerescent or even highlighter ink! Simply tick some boxes, and in less than a minute, feel good about yourself for having helped improve the body of knowledge that the world can tap into! 
   
-# Are you also a programmer, let's talk code for a moment
+# Are you also a programmer? Let's talk code for a moment!
 
 Data alone is not enough. Putting something like this online without an API, and without some sensible code backing it, would make it mostly useless. Also, while we could get fancy with SQL/ORM/etc. there really are only so many inks for sale on the planet at any one time, and there's a fair number of companies that make fountain pen inks, but that number is also relatively low in terms of model storage. We're talking less than 100 companies of wihch the vast majority produce vastly fewer than 100 inks...
 
