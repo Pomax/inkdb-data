@@ -1,6 +1,6 @@
 {
   "name": "inkdb-data",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Open Source Fountain Pen Ink Data",
   "main": "build/loader.js",
   "scripts": {
@@ -17,8 +17,7 @@
     "url": "https://github.com/Pomax/inkdb-data/issues"
   },
   "homepage": "https://github.com/Pomax/inkdb-data",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "fs-extra": "^0.16.3",
     "minifyify": "^6.2.2"
