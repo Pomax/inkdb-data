@@ -1,6 +1,6 @@
 {
   "name": "inkdb-data",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Open Source Fountain Pen Ink Data",
   "main": "build/loader.js",
   "scripts": {
