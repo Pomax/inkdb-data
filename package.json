@@ -16,6 +16,12 @@
   "bugs": {
     "url": "https://github.com/Pomax/inkdb-data/issues"
   },
+  "keywords": [
+    "fontain",
+    "pen",
+    "ink",
+    "API"
+  ],
   "homepage": "https://github.com/Pomax/inkdb-data",
   "dependencies": {},
   "devDependencies": {
